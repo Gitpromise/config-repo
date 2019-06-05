@@ -4,7 +4,7 @@ spring:
     url: jdbc:mysql://127.0.0.1/Springcloud_sell?characterEncoding=utf-8&useSSL=false
     username: root
     password: admin
-  jpa:
+ jpa:
     show-sql: true
     hibernate:
       ddl-auto: update
